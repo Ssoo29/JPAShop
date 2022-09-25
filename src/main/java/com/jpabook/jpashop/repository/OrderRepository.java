@@ -21,6 +21,6 @@ public class OrderRepository {
     }
 
 //    public List<Order> findAll(OrderSearch orderSearch) {
-//
+//    JPA Criteria 비추. querydsl에서 진행
 //    }
 }
